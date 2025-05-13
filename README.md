@@ -23,9 +23,12 @@ Developed an interactive **customer segmentation model** to improve targeted mar
 - Popular product categories such as home decor, electronics, and beauty products drive most revenue.
 - Personalized marketing based on customer segmentation improves engagement and conversion rates.
 
+# DataSet
+
+
 ## 📩 Contact & Feedback
 Feel free to reach out if you have questions or suggestions! 
-📧 **Email** : ali@example.com 
+📧 **Email** : aliajvand.1@example.com 
 📍 **Location** : Tehran, Iran 
 📱 **Phone** : 09038914179
 
