@@ -37,4 +37,8 @@ Feel free to reach out if you have questions or suggestions!
    ```bash
    git clone https://github.com/1381aliajvand1381/customer-segmentation-marketing.
 
+📂 Download Power BI File: [Click here](https://drive.google.com/file/d/1uO1C1pvSfiYmhJvAPVLO_efejMjKRmlb/view?usp=drive_link)
+📂 Download DataSet File: [Click here](https://drive.google.com/file/d/1BFzvxLoTkw60sj48gxA29xgsnw7EyZ1J/view?usp=drive_link)
+📂 Download python File: [Click here](https://drive.google.com/file/d/108qsrZyG6J0uKJGsr-6aQ50JZy6CD5GG/view?usp=drive_link)
+
 ##  **"To run Power BI, the Python program must be executed first.**
